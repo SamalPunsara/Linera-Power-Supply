@@ -1,5 +1,5 @@
 # Linera-Power-Supply
 
-In this project we developed a lead acid battery charger with the specification of 24V and 8A. This is a three
-stage battery charger with constant current and constant voltage modes. We used LM338 for voltage
-regulation and LT3741 as charging controller unit. Also we added thermal protection, overcurrent protection and overvoltage protection
+Building a Analog Linear Power Supply with the specifications of 10V and 10A current rating. This power
+supply can produce maximum of 100W power.Power supply consists of rectification and smoothing, voltage
+regulation, current limiting and over current protection blocks.
